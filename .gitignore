@@ -1,0 +1,68 @@
+# === Node ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+
+# === Nuxt / Vite build ===
+.nuxt/
+.output/
+.dist/
+.cache/
+temp/
+tmp/
+*.local
+
+# === Logs ===
+logs
+*.log
+*.log.*
+!.keep
+
+# === Environment files ===
+.env
+.env.*
+!.env.example
+
+# === Editor directories and files ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# === System files ===
+.DS_Store
+Thumbs.db
+
+# === Coverage / Testing ===
+coverage/
+*.lcov
+
+# === Build Artifacts ===
+build/
+dist/
+out/
+public/*.map
+
+# === Local runtime data ===
+*.pid
+*.seed
+*.pid.lock
+
+# === Optional npm cache directory ===
+.npm
+
+# === Optional eslint cache ===
+.eslintcache
+
+# === Optional stylelint cache ===
+.stylelintcache
+
+# === Optional TypeScript cache ===
+*.tsbuildinfo
+
+# === Misc ===
+*.swp
+*.swm

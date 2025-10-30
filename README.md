@@ -1,76 +1,49 @@
-# Nuxt Minimal Starter
+# OSMI
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Company & Product Showcase (Nuxt 3 + TypeScript + SCSS)
 
-## Setup
+---
 
-Make sure to install dependencies:
+## Stack
+
+- [Nuxt 3] — framework based on Vue 3
+- [Vue 3] — Composition API and modular components
+- [TypeScript] — static typing
+- [SCSS] — styles and breakpoint system
+- [Vite] — fast build and hot reload
+- [ESLint] — code linting
+- [PostCSS + Autoprefixer] — CSS optimization
+
+---
+
+## Build Setup
 
 ```bash
-# npm
+# 1. Clone repository
+git clone https://github.com/yourusername/osmi.git
+cd osmi
+
+# 2. Install dependencies
 npm install
 
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
+# 3. Start development server (http://localhost:3000)
 npm run dev
 
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
+# 4. Build for production
 npm run build
 
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
+# 5. Preview production build locally
 npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
-# OSMI
+
+
+## Project link
+
+
+### Contacts for communication on all issues
+
+<ul>
+    <li>katyfrontend@gmail.com</li>
+    <li>Telegram katyEkat</li>
+</ul>
