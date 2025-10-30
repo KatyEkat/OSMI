@@ -6,13 +6,14 @@ Company & Product Showcase (Nuxt 3 + TypeScript + SCSS)
 
 ## Stack
 
-- [Nuxt 3] — framework based on Vue 3
-- [Vue 3] — Composition API and modular components
-- [TypeScript] — static typing
-- [SCSS] — styles and breakpoint system
-- [Vite] — fast build and hot reload
-- [ESLint] — code linting
-- [PostCSS + Autoprefixer] — CSS optimization
+- Nuxt 4 — modern fullstack framework based on Vue 3
+- Vue 3 — Composition API and modular architecture
+- TypeScript — static typing for better maintainability
+- Tailwind CSS — utility-first CSS framework for fast styling
+- SCSS — custom styles and breakpoint system
+- Vite — lightning-fast build tool with hot module replacement
+- ESLint + Prettier — code linting and formatting
+- PostCSS + Autoprefixer — automatic CSS optimization and browser support
 
 ---
 
