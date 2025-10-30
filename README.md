@@ -20,8 +20,8 @@ Company & Product Showcase (Nuxt 3 + TypeScript + SCSS)
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/osmi.git
-cd osmi
+git clone
+
 
 # 2. Install dependencies
 npm install
@@ -39,6 +39,8 @@ npm run preview
 
 
 ## Project link
+
+https://osmi-two.vercel.app/
 
 
 ### Contacts for communication on all issues
